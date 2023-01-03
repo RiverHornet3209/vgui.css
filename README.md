@@ -4,7 +4,7 @@ CSS Classic Green VGUI Skin from early Steam and Goldsource games, with a black 
 
 To use, install the `styles` folder onto your server, and add the `<link>` line to your HTML file, changing the path if necessary.
 
-See `demo_greensteam.html` for example usage. Semantics are exactly the same for blacksteam.
+See `demo_greensteam.html` for example usage. Semantics are exactly the same for blacksteam and greysteam.
 
 To edit the styles, use [`lessc`](http://lesscss.org/usage/) on specific files or leave the [less-watch-compiler](https://www.npmjs.com/package/less-watch-compiler) process running: `less-watch-compiler --main-file greensteam/greensteam.less styles styles`, in the root folder.
 
