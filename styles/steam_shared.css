@@ -168,6 +168,14 @@ textarea:focus {
 ::-webkit-calendar-picker-indicator {
   filter: brightness(0) invert() brightness(70%);
 }
+.DownloadButton {
+  background: url(download.png) no-repeat;
+  padding: 13px 50px;
+}
+.DownloadButton:active {
+  background: url(download_pressed.png) no-repeat;
+   padding: 13px 50px;
+}
 /*** Range Slider ***/
 input[type=range] {
   appearance: none;
