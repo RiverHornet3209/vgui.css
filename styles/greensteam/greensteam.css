@@ -485,9 +485,9 @@ progress::-moz-progress-bar {
 }
 body {
   background-color: #3e4637;
-  font-family: "Trebuchet MS", "Verdana", sans-serif;
+  font-family: "Tahoma", "Verdana", sans-serif;
   color: #d8ded3;
-  font-size: 14px;
+  font-size: 13px;
   image-rendering: pixelated;
   margin: 20px 20px;
 }
@@ -564,10 +564,10 @@ main,
 .titlebar,
 legend {
   text-transform: uppercase;
-  letter-spacing: 2px;
-  font-size: 12px;
+  letter-spacing: 1px;
+  font-size: 13px;
   color: white;
-  font-weight: bold;
+  font-weight: lighter;
 }
 img {
   border: solid 2px #7b8484;
