@@ -336,7 +336,7 @@ input[type=range].ticks::after {
   width: 100%;
   height: 18px;
   line-height: 18px;
-  text-indent: 24px;
+  text-indent: 22px;
   background-image: url("steamico.png"), url("minimize.png"), url("close.png");
   background-repeat: no-repeat;
   background-position: top left, top right 20px, top right;
@@ -563,11 +563,8 @@ main,
 .window::before,
 .titlebar,
 legend {
-  text-transform: uppercase;
-  letter-spacing: 1px;
   font-size: 13px;
   color: white;
-  font-weight: lighter;
 }
 img {
   border: solid 2px #7b8484;
